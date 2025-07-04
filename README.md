@@ -258,8 +258,8 @@ Additional schemas: Payment, Notification, Category, Certificate, etc.
 
 ## Screenshots
 
-![E learning ui](el1.png)
-![E learning ui](el2.png)
-![E learning ui](el3.png)
+![E learning ui](assets/el1.png)
+![E learning ui](assets/el2.png)
+![E learning ui](assets/el3.png)
 
 *Thank you for exploring this E‑Learning Platform! I hope it gives you a solid foundation to learn from, build upon, or use in your own ed-tech solutions.*
